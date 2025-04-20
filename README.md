@@ -19,7 +19,7 @@ pass: 123
 
 #FITUR
 1. Edit
-  -Untuk mengedit database langsung dari interface, tanpa perlu masuk ke database
+    Untuk mengedit database langsung dari interface, tanpa perlu masuk ke database
 
 2. Tambah Data
    Untuk menambahkan data langsung dari interface, tanpa perlu masuk ke database
