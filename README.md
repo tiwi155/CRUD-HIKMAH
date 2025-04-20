@@ -15,11 +15,11 @@ pass: 123
 #NOTE
 1. Buka menggunakan localhost, karena di github tidak menyediakan hosting untuk PHP
 2. Download file ini terlebih dahulu, lalu buka di localhost
-3. Masukkan usernam dan password sesuai yang ada di atas
+3. Masukkan username dan password sesuai yang ada di atas
 
 #FITUR
 1. Edit
-  Untuk mengedit database langsung dari interface, tanpa perlu masuk ke database
+  -Untuk mengedit database langsung dari interface, tanpa perlu masuk ke database
 
 2. Tambah Data
    Untuk menambahkan data langsung dari interface, tanpa perlu masuk ke database
